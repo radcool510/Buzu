@@ -60,9 +60,9 @@ Download the latest releases automatically via the installer on our [downloads](
 
 ## Support
 
-If you wish to support the project, you can do so by sharing our work and providing feedback. Join our [Discord](https://discord.com/invite/your-discord-invite-link) to interact with the community and contribute.
+If you wish to support the project, you can do so by sharing our work and providing feedback. Join our [Discord](https://discord.gg/dsshCUBg) to interact with the community and contribute.
 
-For any inquiries or support, contact us at: support@buzu-emu.org.
+For any inquiries or support, contact us at our Discord Server
 
 ## License
 
