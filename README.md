@@ -5,7 +5,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 <h1 align="center">
   <br>
-  <a href="https://buzu-emu.org/"><img src="https://example.com/buzu-icon.png" alt="buzu" width="200"></a>
+  <a href="https://buzu-emu.org/"><img src="(https://cdn.discordapp.com/attachments/1134573258499440783/1271075740305068052/lemon.png?ex=66b60507&is=66b4b387&hm=64aeaca3bcd54bb99b50133c5dbb7a0bacac43e50fd69bf06a65051587e2e87b&)" alt="buzu" width="200"></a>
   <br>
   <b>buzu</b>
   <br>
@@ -21,7 +21,7 @@ It is developed in C++ with a focus on performance and portability, with active 
         <img src="https://dev.azure.com/buzu-emu/buzu/_apis/build/status/buzu%20mainline?branchName=master"
             alt="Azure Mainline CI Build Status">
     </a>
-    <a href="https://discord.com/invite/your-discord-invite-link">
+    <a href="(https://discord.gg/fareR8P4f3)">
         <img src="https://img.shields.io/discord/398318088170242053?color=5865F2&label=buzu&logo=discord&logoColor=white"
             alt="Discord">
     </a>
