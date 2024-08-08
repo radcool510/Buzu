@@ -64,8 +64,10 @@ If you wish to support the project, you can do so by sharing our work and provid
 
 For any inquiries or support, contact us at our Discord Server
 
-Release Date: 29 August 2023
-
 ## License
 
 buzu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/buzu-emu/buzu/blob/master/LICENSE.md) file for details.
+
+## Release Date
+
+29 August 2024
