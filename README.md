@@ -1,29 +1,28 @@
-
 <!--
-SPDX-FileCopyrightText: 2018 yuzu Emulator Project
-SPDX-License-Identifier: GPL-2.0-or-later
+SPDX-FileCopyrightText: 2024 buzu Emulator Project
+SPDX-License-Identifier: GPL-3.0-or-later
 -->
 
 <h1 align="center">
   <br>
-  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
+  <a href="https://buzu-emu.org/"><img src="https://example.com/buzu-icon.png" alt="buzu" width="200"></a>
   <br>
-  <b>yuzu</b>
+  <b>buzu</b>
   <br>
 </h1>
 
-<h4 align="center"><b>yuzu</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
+<h4 align="center"><b>buzu</b> is a cutting-edge, open-source Nintendo Switch emulator created by Ash Crimson.
 <br>
-It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
+It is developed in C++ with a focus on performance and portability, with active builds available for Android.
 </h4>
 
 <p align="center">
-    <a href="https://dev.azure.com/yuzu-emu/yuzu/">
-        <img src="https://dev.azure.com/yuzu-emu/yuzu/_apis/build/status/yuzu%20mainline?branchName=master"
+    <a href="https://dev.azure.com/buzu-emu/buzu/">
+        <img src="https://dev.azure.com/buzu-emu/buzu/_apis/build/status/buzu%20mainline?branchName=master"
             alt="Azure Mainline CI Build Status">
     </a>
-    <a href="https://discord.com/invite/u77vRWY">
-        <img src="https://img.shields.io/discord/398318088170242053?color=5865F2&label=yuzu&logo=discord&logoColor=white"
+    <a href="https://discord.com/invite/your-discord-invite-link">
+        <img src="https://img.shields.io/discord/398318088170242053?color=5865F2&label=buzu&logo=discord&logoColor=white"
             alt="Discord">
     </a>
 </p>
@@ -39,48 +38,32 @@ It is written in C++ with portability in mind, and we actively maintain builds f
 
 ## Compatibility
 
-The emulator is capable of running most commercial games at full speed, provided you meet the [necessary hardware requirements](https://yuzu-emu.org/help/quickstart/#hardware-requirements).
+buzu is designed to run most commercial games at full speed, provided your Android device meets the [necessary hardware requirements](https://buzu-emu.org/help/quickstart/#hardware-requirements).
 
-For a full list of games yuzu supports, please visit our [Compatibility page](https://yuzu-emu.org/game/).
-
-Check out our [website](https://yuzu-emu.org/) for the latest news on exciting features, monthly progress reports, and more!
+For a comprehensive list of games compatible with buzu, visit our [Compatibility page](https://buzu-emu.org/game/).
 
 ## Development
 
-Most of the development happens on GitHub. It's also where [our central repository](https://github.com/yuzu-emu/yuzu) is hosted. For development discussion, please join us on [Discord](https://discord.com/invite/u77vRWY).
+Development takes place primarily on GitHub. Our [central repository](https://github.com/buzu-emu/buzu) is hosted there. For development discussions, join us on [Discord](https://discord.com/invite/your-discord-invite-link).
 
-If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/yuzu-emu/yuzu/wiki/Contributing) and [Developer Information](https://github.com/yuzu-emu/yuzu/wiki/Developer-Information).
-You can also contact any of the developers on Discord in order to know about the current state of the emulator.
+Want to contribute? Check out our [Contributor's Guide](https://github.com/buzu-emu/buzu/wiki/Contributing) and [Developer Information](https://github.com/buzu-emu/buzu/wiki/Developer-Information). You can also reach out to developers on Discord for the latest updates on the emulator.
 
-If you want to contribute to the user interface translation project, please check out the [yuzu project on transifex](https://www.transifex.com/yuzu-emulator/yuzu). We centralize translation work there, and periodically upstream translations.
+If you're interested in contributing to the user interface translation project, visit the [buzu project on Transifex](https://www.transifex.com/buzu-emulator/buzu). We centralize translation work there and periodically upstream translations.
 
 ## Building
 
-* __Windows__: [Windows Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Windows)
-* __Linux__: [Linux Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Linux)
+* __Android__: [Android Build Instructions](https://github.com/buzu-emu/buzu/wiki/Building-For-Android)
 
 ## Download
 
-You can download the latest releases automatically via the installer on our [downloads](https://yuzu-emu.org/downloads/) page.
-
+Download the latest releases automatically via the installer on our [downloads](https://buzu-emu.org/downloads/) page.
 
 ## Support
 
-If you enjoy the project and want to support us financially, check out our Patreon!
+If you wish to support the project, you can do so by sharing our work and providing feedback. Join our [Discord](https://discord.com/invite/your-discord-invite-link) to interact with the community and contribute.
 
-<a href="https://www.patreon.com/yuzuteam">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-Any donations received will go towards things like:
-* Switch consoles to explore and reverse-engineer the hardware
-* Switch games for testing, reverse-engineering, and implementing new features
-* Web hosting and infrastructure setup
-* Software licenses (e.g. Visual Studio, IDA Pro, etc.)
-* Additional hardware (e.g. GPUs as-needed to improve rendering support, other peripherals to add support for, etc.)
-
-If you wish to support us a different way, please join our [Discord](https://discord.gg/u77vRWY) and talk to bunnei. You may also contact: donations@yuzu-emu.org.
+For any inquiries or support, contact us at: support@buzu-emu.org.
 
 ## License
 
-yuzu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/yuzu-emu/yuzu/blob/master/LICENSE.txt) file.
+buzu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/buzu-emu/buzu/blob/master/LICENSE.md) file for details.
