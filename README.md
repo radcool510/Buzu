@@ -44,7 +44,7 @@ For a comprehensive list of games compatible with buzu, visit our [Compatibility
 
 ## Development
 
-Development takes place primarily on GitHub. Our [central repository](https://github.com/buzu-emu/buzu) is hosted there. For development discussions, join us on [Discord](https://discord.com/invite/your-discord-invite-link).
+Development takes place primarily on GitHub. Our [central repository](https://github.com/buzu-emu/buzu) is hosted there. For development discussions, join us on [Discord](https://discord.gg/dsshCUBg).
 
 Want to contribute? Check out our [Contributor's Guide](https://github.com/buzu-emu/buzu/wiki/Contributing) and [Developer Information](https://github.com/buzu-emu/buzu/wiki/Developer-Information). You can also reach out to developers on Discord for the latest updates on the emulator.
 
